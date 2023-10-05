@@ -8,6 +8,8 @@ public class GitTest {
         System.out.println("hello world git hello");
         System.out.println("mates hello world ");
         System.out.println("hello git hot-fix1");
+        System.out.println("不需要代理！！！");
         System.out.println("push test!");
+        System.out.println("pull test!");
     }
 }
